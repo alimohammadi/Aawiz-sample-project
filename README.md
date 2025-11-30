@@ -23,4 +23,4 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 ## Learn More
 
 Github Link: https://github.com/alimohammadi/Aawiz-sample-project.git
-Vercel Link: https://aawizsampleproject.vercel.app/
+Vercel Link: https://aawizsampleproject.vercel.app/# Aawiz-sample-project
